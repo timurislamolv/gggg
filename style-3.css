@@ -1,0 +1,73 @@
+
+/*.compact{*/
+/*    width:100px;*/
+/*    height: 70px;*/
+/*    color: #20232f;*/
+/*    background:royalblue;*/
+/*    border: chartreuse  ;*/
+/*    border-radius: 40px;*/
+
+/*}*/
+/*.compact:hover{*/
+/*    background: #06ea06;*/
+/*    transition: .4s;*/
+/*    box-shadow: 0 0 10px  blue;*/
+/*}*/
+
+
+
+
+
+
+
+/*.bg-info{*/
+/*    !*color: royalblue;*!*/
+/*    background: #20232f;*/
+/*}*/
+
+
+/*.container{*/
+/*    font-size: 30px;*/
+/*    color: royalblue;*/
+/*    !*background: #146014;*!*/
+/*    text-align: center;*/
+
+/*}*/
+
+/*.text-input{*/
+/*    background: aquamarine;*/
+/*    width: 200px;*/
+/*    border: chartreuse;*/
+/*    height: 40px;*/
+/*    border-radius: 10px;*/
+/*    color: #0c0a0a;*/
+/*}*/
+/*.add-btn{*/
+/*    border-radius: 15px;*/
+/*    border: 10px;*/
+/*    width: 80px;*/
+/*    height: 50px;*/
+/*    background: #499649;*/
+/*    color: #f8f8f8;*/
+/*    font-size: 20px;*/
+/*}*/
+/*.add-btn:hover{*/
+/*    background: #a80e0e;*/
+/*        transition: .4s;*/
+/*        box-shadow: 0 0 10px  blue;*/
+/*    }*/
+
+/*.remove-btn{*/
+/*    border-radius: 15px;*/
+/*    border: 10px;*/
+/*    width: 80px;*/
+/*    height: 50px;*/
+/*    background: red;*/
+/*    color: #f8f8f8;*/
+/*    font-size: 20px;*/
+/*}*/
+/*.remove-btn:hover{*/
+/*    background: #0ee50e;*/
+/*        transition: .4s;*/
+/*        box-shadow: 0 0 10px  blue;*/
+/*    }*/
